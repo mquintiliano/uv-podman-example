@@ -1,6 +1,6 @@
-# uv-docker-example
+# uv-podman-example
 
-An example project for using uv in Docker images, with a focus on best practices for developing with
+An example project for using uv in Podman images, with a focus on best practices for developing with
 the project mounted in the local image.
 
 See the [uv Docker integration guide](https://docs.astral.sh/uv/guides/integration/docker/) for more
